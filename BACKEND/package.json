@@ -7,14 +7,9 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-<<<<<<< HEAD
-  "author": "",
-  "license": "ISC",
   "description": "",
-=======
   "author": "vandana",
   "license": "ISC",
->>>>>>> 1b193f9 (Add BACKEND folder contents)
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
